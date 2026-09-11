@@ -234,3 +234,6 @@ This repository serves as the official landing page for TMPGEnc MPEG Editor. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TMPGEnc MPEG Editor today!**
+
+---
+**Last updated:** 2026-09-11 08:27:58 UTC
