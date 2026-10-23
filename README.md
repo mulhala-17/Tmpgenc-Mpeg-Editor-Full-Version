@@ -236,4 +236,4 @@ This repository serves as the official landing page for TMPGEnc MPEG Editor. The
 **Get the most recent version of TMPGEnc MPEG Editor today!**
 
 ---
-**Last updated:** 2026-10-23 05:38:06 UTC
+**Last updated:** 2026-10-23 10:49:41 UTC
